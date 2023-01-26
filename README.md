@@ -21,7 +21,7 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 
 ### Algumas estatísticas
 
-| Jogador        	| Gols 	| Jogador      	| Assistência 	|
+| Jogador        	| Gols 	| Jogador      	| Assistências 	|
 |----------------	|------	|--------------	|-------------	|
 | Pedro          	| 3    	| Matheuzinho  	| 3           	|
 | Gabi           	| 3    	| Pedro        	| 2           	|
