@@ -12,29 +12,23 @@ contém as seguintes colunas:
 - stadium: Estadio da partida
 
 
-Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023/blob/main/goal_scorers.csv) contém as seguites colunas
+Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023/blob/main/goal_scorers.csv) contém as seguites colunas:
 
 - kick-off: Data e hora da partida
-- gols: Gols da partida
+- gols: Jogadores que fizem gols na partida
 - assist: Assistência para o gol
 
 
-### Algumas estatísticas
+### Algumas estatística
 
-| Jogador        	| Gols 	| Jogador      	| Assistências 	|
+| Jogador        	| Gols 	| Jogador      	| Assistência 	|
 |----------------	|------	|--------------	|-------------	|
-| Pedro          	| 3    	| Matheuzinho  	| 3           	|
-| Gabi           	| 3    	| Pedro        	| 2           	|
+| Gabi          	| 5   	| Matheuzinho  	| 3           	|
+| Pedro           	| 4    	| Pedro        	| 2           	|
 | Fabrício Bruno 	| 2    	| Thiaguinho   	| 1           	|
 | Matheus França 	| 1    	| Ayrton Lucas 	| 1           	|
 | Thiago Maia    	| 1    	| Everton Cebolinha    	| 1           	|
 | Lorran         	| 1    	| Filipe Luís  	| 1           	|
 |                	|      	| Arrascaeta   	| 1           	|
 |                	|      	| Mateusão     	| 1           	|
-
-
-
-
-
-
-
+|                	|      	| Everton Ribeiro |   1|
