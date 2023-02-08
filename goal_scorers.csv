@@ -1,15 +1,19 @@
-kick-off,gols,assist
-23-01-12 21:30:00,Matheus França,Thiaguinho
-23-01-15 18:00:00,Pedro,Ayrton Lucas
-23-01-15 18:00:00,Gabi,Pedro
-23-01-15 18:00:00,Fabrício Bruno,Pedro
-23-01-15 18:00:00,Thiago Maia,Matheuzinho
-23-01-21 16:00:00,Pedro,Matheuzinho
-23-01-21 16:00:00,Fabrício Bruno,Everton
-23-01-21 16:00:00,Gabi,Matheuzinho
-23-01-21 16:00:00,Gabi,Filipe Luis
-23-01-21 16:00:00,Pedro,Arrascaeta
-23-01-24 21:10:00,Lorran,Mateusão
-23-01-28 16:30:00,Gabi,-
-23-01-28 16:30:00,Gabi,Everton Ribeiro
-23-01-28 16:30:00,Pedro,-
+id_match,gols,assist
+CA1,Matheus França,Thiaguinho
+CA2,Pedro,Ayrton Lucas
+CA2,Gabi,Pedro
+CA2,Fabrício Bruno,Pedro
+CA2,Thiago Maia,Matheuzinho
+CA4,Pedro,Matheuzinho
+CA4,Fabrício Bruno,Everton
+CA4,Gabi,Matheuzinho
+CA4,Gabi,Filipe Luis
+CA4,Pedro,Arrascaeta
+CA4,Lorran,Mateusão
+SC1,Gabi,NaN
+SC1,Gabi,Everton Ribeiro
+SC1,Pedro,NaN
+CA6,Pedro,Gabi
+CW1,Pedro,Matheuzinho
+CW1,Pedro,NaN
+

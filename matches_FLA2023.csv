@@ -1,7 +1,10 @@
-home_team,away_team,home_score,away_score,tournament,kick-off,stadium
-Flamengo,Audax-RJ,1,0,Carioca - Taça Guanabara - Round 5,23-01-12 21:30:00,Maracanã-RJ
-Flamengo,Portuguesa-RJ,4,1,Carioca - Taça Guanabara - Round 1,23-01-15 18:00:00,Maracanã-RJ
-Madureira-RJ,Flamengo,0,0,Carioca - Taça Guanabara - Round 2,23-01-18 19:00:00,Kléber Andrade-ES
-Flamengo,Nova Iguaçu-RJ,5,0,Carioca - Taça Guanabara - Round 3,23-01-21 16:00:00,Maracanã-RJ
-Bangu-RJ,Flamengo,1,1,Carioca - Taça Guanabara - Round 4,23-01-24 21:10:00,Raulino de Oliveira-RJ
-Palmeiras,Flamengo,4,3,Supercopa do Brasil,23-01-28 16:30:00,Mané Garrincha-DF
+id_match,home_team,away_team,home_score,away_score,tournament,kick-off,stadium
+CA1,Flamengo,Audax-RJ,1,0,Carioca - Taça Guanabara - Round 5,23-01-12 21:30:00,Maracanã-RJ
+CA2,Flamengo,Portuguesa-RJ,4,1,Carioca - Taça Guanabara - Round 1,23-01-15 18:00:00,Maracanã-RJ
+CA3,Madureira-RJ,Flamengo,0,0,Carioca - Taça Guanabara - Round 2,23-01-18 19:00:00,Kléber Andrade-ES
+CA4,Flamengo,Nova Iguaçu-RJ,5,0,Carioca - Taça Guanabara - Round 3,23-01-21 16:00:00,Maracanã-RJ
+CA5,Bangu-RJ,Flamengo,1,1,Carioca - Taça Guanabara - Round 4,23-01-24 21:10:00,Raulino de Oliveira-RJ
+SC1,Palmeiras,Flamengo,4,3,Supercopa do Brasil,23-01-28 16:30:00,Mané Garrincha-DF
+CA6,Flamengo,Boavista,1,0,Carioca - Taça Guanabara - Round 6,23-02-01 21:10:00,Maracanã-RJ
+CW1,Flamengo,Al-Hilal Saudi,2,3,Club World Championship - Semifinal,23-02-07 16:00:00,Ibn Batouta Stadium-Marrocos
+
