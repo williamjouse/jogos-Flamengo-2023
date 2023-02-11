@@ -24,8 +24,8 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 
 | Jogador        	| Gols 	| Jogador      	    | Assistência 	|
 |----------------	|------	|--------------	    |-------------	|
-| Pedro          	| 7   	| Matheuzinho  	    | 4           	|
-| Gabi           	| 5    	| Pedro        	    | 2           	|
+| Pedro          	| 9   	| Matheuzinho  	    | 4           	|
+| Gabi           	| 7    	| Pedro        	    | 2           	|
 | Fabrício Bruno 	| 2    	| Thiaguinho   	    | 1           	|
 | Matheus França 	| 1    	| Ayrton Lucas 	    | 1           	|
 | Thiago Maia    	| 1    	| Everton Cebolinha | 1           	|
@@ -39,4 +39,4 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 
 | Vitórias        	| Empates	| Derrotas  |
 |----------------	|------		|--------------	   
-| 4         		| 2  		| 2  	   | 
+| 5         		| 2  		| 2  	   | 
