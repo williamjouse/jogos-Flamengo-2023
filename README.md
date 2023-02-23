@@ -29,14 +29,20 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 | Fabrício Bruno 	| 2    	| Everton Cebolinha | 2           	|
 | Matheus França 	| 1    	| Arrascaeta 	    | 2           	|
 | Thiago Maia    	| 1    	| Everton Ribeiro   | 2           	|
-| Lorran         	| 1    	| Filipe Luís  	    | 1           	|
-|                	|      	| Ayrton Lucas      | 1           	|
-|                	|      	| Mateusão     	    | 1           	|
+| Lorran         	| 1    	| Mateusão          | 2 		|
+| André Luiz            | 1  	| Filipe Luís  	    | 1           	|
+| Matheus Gonçalves     | 1    	| Ayrton Lucas      | 1           	|
 |                	|      	| Thiaguinho        | 1 		|
 |                	|      	| Gabi		    | 1 		|
+|			|       | Marinho           | 1 	        |
 
 ----
 
 | Vitórias        	| Empates	| Derrotas  |
 |----------------	|------		|--------------	   
-| 6         		| 2  		| 2  	   | 
+| 7         		| 2  		| 3  	   | 
+
+
+
+
+
