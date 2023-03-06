@@ -43,11 +43,4 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 |:---------|--------:|
 | Vitórias |       9 |
 | Empates  |       2 |
-| Derrotas |       3 |
-
-
-
-
-
-
-
+| Derrotas |       4 |
