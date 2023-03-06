@@ -10,7 +10,7 @@ contém as seguintes colunas:
 - away_score: Gols marcado pelo visitante
 - tournament: Torneio ou competição e rodada
 - kick-off: Data e hora da partida
-- stadium: Estadio da partida
+- stadium: Estádio da partida
 
 
 Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023/blob/main/goal_scorers.csv) contém as seguites colunas:
