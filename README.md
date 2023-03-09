@@ -33,8 +33,9 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 | Thiaguinho        |             1 | Lorran            |      1 |
 | Ayrton Lucas      |             1 | André Luiz        |      1 |
 | Filipe Luis       |             1 | Arrascaeta        |      1 |
-| Gabi              |             1 |                |     |
-| Marinho           |             1 |                |     |
+| Gabi              |             1 | Everton Cebolinha |      1 |
+| Marinho           |             1 |                	|    	 |
+| Gerson            |             1 |                	|     	 |
 
 
 ----
@@ -43,4 +44,5 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 |:---------|--------:|
 | Vitórias |       9 |
 | Empates  |       2 |
-| Derrotas |       4 |
+| Derrotas |       5 |
+
