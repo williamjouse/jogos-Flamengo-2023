@@ -39,14 +39,24 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 
 
 
-
 ----
 
-|          |   Jogos |
-|:---------|--------:|
-| Vitórias |      11 |
-| Empates  |       2 |
-| Derrotas |       5 |
+
+```
+
+Jogos: 19
+Vitórias: 12
+Empates: 2
+Derrotas: 5 
+Gols pro: 37
+Gols contra: 19
+Saldo de gols: +18
+Gols/jogo: 1.95
+Gols sofridos/jogo: 1.0
+Jogos em que marcou: 16
+Jogos em que sofreu gol: 11 
+Aproveitamento: 66.67%
+Aproveitamento pontos: 38/57
 
 
-
+```
