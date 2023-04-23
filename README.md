@@ -35,9 +35,10 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 | Gerson            |             2 | Lorran            |      1 |
 | Thiaguinho        |             1 | André Luiz        |      1 |
 | Filipe Luis       |             1 | Everton Cebolinha |      1 |
-| Gabi              |             1 |                |     |
+| Gabi              |             1 | Gerson            |      1 |
 | Pablo             |             1 |                |     |
 | Victor Hugo       |             1 |                |     |
+
 
 
 
@@ -48,19 +49,19 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 
 ```
 
-Jogos: 24
+Jogos: 25
 Vitórias: 14
 Empates: 2
-Derrotas: 8 
-Gols pro: 44
-Gols contra: 27
-Saldo de gols: +17
-Gols/jogo: 1.83
-Gols sofridos/jogo: 1.12
-Jogos em que marcou: 20
-Jogos em que sofreu gol: 14 
-Aproveitamento: 61.11%
-Aproveitamento pontos: 44/72
+Derrotas: 9 
+Gols pro: 45
+Gols contra: 29
+Saldo de gols: +16
+Gols/jogo: 1.8
+Gols sofridos/jogo: 1.16
+Jogos em que marcou: 21
+Jogos em que sofreu gol: 15 
+Aproveitamento: 58.67%
+Aproveitamento pontos: 44/75
 
 
 ```
