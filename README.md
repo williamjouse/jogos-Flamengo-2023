@@ -24,7 +24,7 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 
 | Jogador           |   Assistência | Jogador           |   Gols |
 |:------------------|--------------:|:------------------|-------:|
-| Everton Cebolinha |             5 | Pedro             |     21 |
+| Everton Cebolinha |             6 | Pedro             |     22 |
 | Matheuzinho       |             4 | Gabi              |     13 |
 | Ayrton Lucas      |             4 | Ayrton Lucas      |      4 |
 | Everton Ribeiro   |             3 | Fabrício Bruno    |      3 |
@@ -37,7 +37,7 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 | Arturo Vidal      |             2 | Léo Pereira       |      2 |
 | Victor Hugo       |             1 | Lorran            |      1 |
 | Fabricio Bruno    |             1 | André Luiz        |      1 |
-| Thiaguinho        |             1 |                |     |
+| Thiaguinho        |             1 | Everton Ribeiro   |      1 |
 | Pablo             |             1 |                |     |
 | Filipe Luis       |             1 |                |     |
 | Eric Pulgar       |             1 |                |     |
@@ -54,19 +54,22 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 
 ```
 
-Jogos: 29
-Vitórias: 15
+
+Jogos: 30
+Vitórias: 16
 Empates: 3
 Derrotas: 11 
-Gols pro: 57
+Gols pro: 59
 Gols contra: 37
-Saldo de gols: +20
+Saldo de gols: +22
 Gols/jogo: 1.97
-Gols sofridos/jogo: 1.28
-Jogos em que marcou: 25
+Gols sofridos/jogo: 1.23
+Jogos em que marcou: 26
 Jogos em que sofreu gol: 19 
-Aproveitamento: 55.17%
-Aproveitamento pontos: 48/87
+Aproveitamento: 56.67%
+Aproveitamento pontos: 51/90
+
+
 
 
 
