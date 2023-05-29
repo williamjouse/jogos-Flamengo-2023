@@ -21,12 +21,11 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 
 
 ### Algumas estatísticas
-
 | Jogador           |   Assistência | Jogador           |   Gols |
 |:------------------|--------------:|:------------------|-------:|
 | Everton Cebolinha |             8 | Pedro             |     22 |
-| Matheuzinho       |             4 | Gabi              |     14 |
-| Ayrton Lucas      |             4 | Ayrton Lucas      |      4 |
+| Matheuzinho       |             4 | Gabi              |     15 |
+| Ayrton Lucas      |             4 | Ayrton Lucas      |      5 |
 | Pedro             |             3 | Matheus França    |      3 |
 | Arrascaeta        |             3 | Fabrício Bruno    |      3 |
 | Everton Ribeiro   |             3 | Léo Pereira       |      3 |
@@ -35,32 +34,35 @@ Na tabela [goal_scorers.csv](https://github.com/williamjouse/jogos-Flamengo-2023
 | Gabi              |             2 | Arrascaeta        |      2 |
 | Arturo Vidal      |             2 | Everton Cebolinha |      2 |
 | Mateusão          |             2 | Gerson            |      2 |
-| Eric Pulgar       |             1 | Lorran            |      1 |
-| Fabricio Bruno    |             1 | André Luiz        |      1 |
-| Thiaguinho        |             1 | Everton Ribeiro   |      1 |
-| Victor Hugo       |             1 | David Luiz        |      1 |
+| David Luiz        |             1 | Lorran            |      1 |
+| Eric Pulgar       |             1 | André Luiz        |      1 |
+| Fabricio Bruno    |             1 | Everton Ribeiro   |      1 |
+| Thiaguinho        |             1 | David Luiz        |      1 |
+| Victor Hugo       |             1 |                |     |
 | Pablo             |             1 |                |     |
 | Filipe Luis       |             1 |                |     |
-| David Luiz        |             1 |                |     |
+| Wesley            |             1 |                |     |
+
 
 
 ----
 
 
 ```
-Jogos: 33
+Jogos: 35
 Vitórias: 18
-Empates: 4
+Empates: 6
 Derrotas: 11 
-Gols pro: 63
-Gols contra: 39
+Gols pro: 65
+Gols contra: 41
 Saldo de gols: +24
-Gols/jogo: 1.91
-Gols sofridos/jogo: 1.18
-Jogos em que marcou: 28
-Jogos em que sofreu gol: 20 
-Aproveitamento: 58.59%
-Aproveitamento pontos: 58/99
+Gols/jogo: 1.86
+Gols sofridos/jogo: 1.17
+Jogos em que marcou: 30
+Jogos em que sofreu gol: 22 
+Aproveitamento: 57.14%
+Aproveitamento pontos: 60/105
+
 ```
 
 
