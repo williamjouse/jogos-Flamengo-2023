@@ -36,22 +36,23 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 | Everton Cebolinha |             8 | Pedro             |     23 |
 | Arrascaeta        |             5 | Gabi              |     16 |
 | Ayrton Lucas      |             5 | Ayrton Lucas      |      6 |
-| Matheuzinho       |             4 | Matheus França    |      3 |
-| Gerson            |             4 | Fabrício Bruno    |      3 |
-| Pedro             |             3 | Arrascaeta        |      3 |
-| Everton Ribeiro   |             3 | Gerson            |      3 |
-| Marinho           |             3 | Léo Pereira       |      3 |
-| Gabi              |             2 | Thiago Maia       |      2 |
+| Gerson            |             5 | Matheus França    |      3 |
+| Matheuzinho       |             4 | Arrascaeta        |      3 |
+| Pedro             |             3 | Fabrício Bruno    |      3 |
+| Everton Ribeiro   |             3 | Léo Pereira       |      3 |
+| Marinho           |             3 | Gerson            |      3 |
+| Gabi              |             2 | Everton Cebolinha |      2 |
 | Arturo Vidal      |             2 | Matheus Gonçalves |      2 |
-| Mateusão          |             2 | Everton Cebolinha |      2 |
+| Mateusão          |             2 | Thiago Maia       |      2 |
+| Eric Pulgar       |             2 | André Luiz        |      1 |
 | Fabricio Bruno    |             2 | Lorran            |      1 |
-| David Luiz        |             1 | André Luiz        |      1 |
-| Eric Pulgar       |             1 | Everton Ribeiro   |      1 |
+| David Luiz        |             1 | Everton Ribeiro   |      1 |
 | Thiaguinho        |             1 | David Luiz        |      1 |
 | Victor Hugo       |             1 | Eric Pulgar       |      1 |
-| Pablo             |             1 |                |     |
-| Filipe Luis       |             1 |                |     |
-| Wesley            |             1 |               |     |
+| Pablo             |             1 | Wesley            |      1 |
+| Filipe Luis       |             1 | Victor Hugo       |      1 |
+| Wesley            |             1 |                |     |
+
 
 
 
@@ -60,20 +61,19 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 ```
 
 
-Jogos: 37
-Vitórias: 20
+Jogos: 38
+Vitórias: 21
 Empates: 6
 Derrotas: 11 
-Gols pro: 71
-Gols contra: 42
-Saldo de gols: +29
+Gols pro: 73
+Gols contra: 43
+Saldo de gols: +30
 Gols/jogo: 1.92
-Gols sofridos/jogo: 1.14
-Jogos em que marcou: 32
-Jogos em que sofreu gol: 23 
-Aproveitamento: 59.46%
-Aproveitamento pontos: 66/111
-
+Gols sofridos/jogo: 1.13
+Jogos em que marcou: 33
+Jogos em que sofreu gol: 24 
+Aproveitamento: 60.53%
+Aproveitamento pontos: 69/114
 ```
 
 
@@ -81,3 +81,5 @@ Aproveitamento pontos: 66/111
 
 
 ![img1.png](figures/figure.png)
+
+![img1.png](figures/figure2.png)
