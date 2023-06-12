@@ -87,3 +87,5 @@ Aproveitamento pontos: 72/117
 ![img1.png](figures/figure.png)
 
 ![img1.png](figures/figure2.png)
+
+![img1.png](figures/figure3.png)
