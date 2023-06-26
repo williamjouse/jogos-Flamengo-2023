@@ -20,10 +20,6 @@ Na segunda tabela de nome [goal_scorers.csv](https://github.com/williamjouse/jog
 - assist: Assistência para o gol
 
 
-E na tabela [statistics.csv](https://github.com/williamjouse/jogos-Flamengo-2023/blob/main/data/statistics.csv) temos algumas estatísticas do jogos 
-
-**Soon**
-
 No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo-2023/blob/main/data/matches_FLA2023.xlsx) contém a junção das 3 tabelas em um único lugar.
 
 
@@ -33,22 +29,22 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 
 | Jogador           |   Assistência | Jogador           |   Gols |
 |:------------------|--------------:|:------------------|-------:|
-| Everton Cebolinha |             8 | Pedro             |     24 |
-| Gerson            |             6 | Gabi              |     16 |
+| Gerson            |             9 | Pedro             |     24 |
+| Everton Cebolinha |             8 | Gabi              |     16 |
 | Arrascaeta        |             5 | Ayrton Lucas      |      6 |
-| Ayrton Lucas      |             5 | Matheus França    |      3 |
+| Ayrton Lucas      |             5 | Everton Cebolinha |      4 |
 | Matheuzinho       |             4 | Arrascaeta        |      3 |
 | Pedro             |             3 | Léo Pereira       |      3 |
 | Everton Ribeiro   |             3 | Gerson            |      3 |
-| Marinho           |             3 | Everton Cebolinha |      3 |
+| Marinho           |             3 | Matheus França    |      3 |
 | Gabi              |             2 | Fabrício Bruno    |      3 |
 | Arturo Vidal      |             2 | Matheus Gonçalves |      2 |
 | Eric Pulgar       |             2 | Thiago Maia       |      2 |
-| Fabricio Bruno    |             2 | André Luiz        |      1 |
-| Wesley            |             2 | Lorran            |      1 |
-| Mateusão          |             2 | Everton Ribeiro   |      1 |
-| Victor Hugo       |             1 | David Luiz        |      1 |
-| Pablo             |             1 | Eric Pulgar       |      1 |
+| Fabricio Bruno    |             2 | Everton Ribeiro   |      2 |
+| Wesley            |             2 | Eric Pulgar       |      2 |
+| Mateusão          |             2 | André Luiz        |      1 |
+| Victor Hugo       |             1 | Lorran            |      1 |
+| Pablo             |             1 | David Luiz        |      1 |
 | Filipe Luis       |             1 | Wesley            |      1 |
 | David Luiz        |             1 | Victor Hugo       |      1 |
 | Thiaguinho        |             1 | Bruno Henrique    |      1 |
@@ -63,19 +59,25 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 
 
 
-Jogos: 39
-Vitórias: 22
+
+
+Jogos: 41
+Vitórias: 23
 Empates: 6
-Derrotas: 11 
-Gols pro: 76
-Gols contra: 43
-Saldo de gols: +33
-Gols/jogo: 1.95
-Gols sofridos/jogo: 1.1
-Jogos em que marcou: 34
-Jogos em que sofreu gol: 24 
-Aproveitamento: 61.54%
-Aproveitamento pontos: 72/117
+Derrotas: 12 
+Gols pro: 79
+Gols contra: 49
+Saldo de gols: +30
+Gols/jogo: 1.93
+Gols sofridos/jogo: 1.2
+Jogos em que marcou: 35
+Jogos em que sofreu gol: 26 
+Aproveitamento: 60.98%
+Aproveitamento pontos: 75/123
+
+
+
+
 
 
 ```
