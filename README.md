@@ -30,11 +30,11 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 | Jogador           |   Assistência | Jogador           |   Gols |
 |:------------------|--------------:|:------------------|-------:|
 | Gerson            |             9 | Pedro             |     25 |
-| Everton Cebolinha |             8 | Gabi              |     16 |
-| Arrascaeta        |             6 | Ayrton Lucas      |      6 |
+| Everton Cebolinha |             8 | Gabi              |     17 |
+| Arrascaeta        |             7 | Ayrton Lucas      |      6 |
 | Ayrton Lucas      |             5 | Everton Cebolinha |      4 |
-| Pedro             |             4 | Léo Pereira       |      4 |
-| Matheuzinho       |             4 | Arrascaeta        |      3 |
+| Pedro             |             4 | Arrascaeta        |      4 |
+| Matheuzinho       |             4 | Léo Pereira       |      4 |
 | Everton Ribeiro   |             4 | Gerson            |      3 |
 | Marinho           |             3 | Matheus França    |      3 |
 | Gabi              |             2 | Fabrício Bruno    |      3 |
@@ -54,15 +54,21 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 
 
 
-| |   | |  |
-|:------------------------|:--------|:------------------------|:--------|
-| Jogos                   | 42      | Gols/jogo               | 1.98    |
-| Vitórias                | 24      | Gols sofridos/jogo      | 1.17    |
-| Empates                 | 6       | Jogos em que marcou     | 36      |
-| Derrotas                | 12      | Jogos em que sofreu gol | 26      |
-| Gols pró                | 83      | Aproveitamento          | 61.9%   |
-| Gols contra             | 49      | Aproveitamento pontos   | 78/126  |
-| Saldo de gols           | 34      |||
+```
+Jogos: 43
+Vitórias: 25
+Empates: 6
+Derrotas: 12 
+Gols pro: 85
+Gols contra: 49
+Saldo de gols: +36
+Gols/jogo: 1.98
+Gols sofridos/jogo: 1.14
+Jogos em que marcou: 37
+Jogos em que sofreu gol: 26 
+Aproveitamento: 62.79%
+Aproveitamento pontos: 81/129
+```
 
 
 
@@ -73,4 +79,3 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 
 ![img1.png](figures/figure2.png)
 
-![img1.png](figures/figure3.png)
