@@ -46,20 +46,20 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 ```
 
 
-Jogos: 46
+
+Jogos: 47
 Vitórias: 27
-Empates: 7
+Empates: 8
 Derrotas: 12 
 Gols pro: 90
 Gols contra: 51
 Saldo de gols: +39
-Gols/jogo: 1.96
-Gols sofridos/jogo: 1.11
+Gols/jogo: 1.91
+Gols sofridos/jogo: 1.09
 Jogos em que marcou: 40
 Jogos em que sofreu gol: 28 
-Aproveitamento: 63.77%
-Aproveitamento pontos: 88/138
-
+Aproveitamento: 63.12%
+Aproveitamento pontos: 89/141
 
 
 
