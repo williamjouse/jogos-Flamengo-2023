@@ -30,15 +30,20 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
 | Pedro             |     26 |              4 |
-| Gabi              |     18 |              2 |
+| Gabi              |     19 |              2 |
 | Ayrton Lucas      |      6 |              5 |
-| Arrascaeta        |      5 |              8 |
-| Léo Pereira       |      4 |              1 |
+| Arrascaeta        |      5 |             10 |
 | Everton Cebolinha |      4 |              8 |
-| Bruno Henrique    |      3 |              0 |
+| Léo Pereira       |      4 |              1 |
+| Bruno Henrique    |      3 |              1 |
+| Victor Hugo       |      3 |              1 |
 | Gerson            |      3 |              9 |
 | Matheus França    |      3 |              0 |
+| Thiago Maia       |      3 |              0 |
 | Fabrício Bruno    |      3 |              0 |
+| Matheus Gonçalves |      2 |              0 |
+| Everton Ribeiro   |      2 |              5 |
+| Eric Pulgar       |      2 |              2 |
 
 
 
@@ -47,19 +52,19 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 
 
 
-Jogos: 47
-Vitórias: 27
-Empates: 8
+Jogos: 49
+Vitórias: 28
+Empates: 9
 Derrotas: 12 
-Gols pro: 90
-Gols contra: 51
-Saldo de gols: +39
-Gols/jogo: 1.91
-Gols sofridos/jogo: 1.09
-Jogos em que marcou: 40
-Jogos em que sofreu gol: 28 
-Aproveitamento: 63.12%
-Aproveitamento pontos: 89/141
+Gols pro: 93
+Gols contra: 52
+Saldo de gols: +41
+Gols/jogo: 1.9
+Gols sofridos/jogo: 1.06
+Jogos em que marcou: 42
+Jogos em que sofreu gol: 29 
+Aproveitamento: 63.27%
+Aproveitamento pontos: 93/147
 
 
 
@@ -74,3 +79,16 @@ Aproveitamento pontos: 89/141
 
 ![img1.png](figures/figure2.png)
 
+![img1.png](figures/figure3.png)
+
+![img1.png](figures/figure4.png)
+
+![img1.png](figures/figure6.png)
+
+
+### Referêcias e Dados
+
+- [Sofascore](https://www.sofascore.com/)
+- [O Goal](https://www.ogol.com.br)
+- [ge](https://ge.globo.com/)
+- [FBREF](https://fbref.com/)
