@@ -83,4 +83,3 @@ Aproveitamento pontos: 96/150
 - [Sofascore](https://www.sofascore.com/)
 - [O Goal](https://www.ogol.com.br)
 - [ge](https://ge.globo.com/)
-- [FBREF](https://fbref.com/)
