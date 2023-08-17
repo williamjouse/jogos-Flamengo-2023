@@ -31,8 +31,8 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 |:------------------|-------:|---------------:|
 | Pedro             |     27 |              4 |
 | Gabi              |     19 |              3 |
+| Arrascaeta        |      7 |             12 |
 | Ayrton Lucas      |      6 |              5 |
-| Arrascaeta        |      6 |             12 |
 | Bruno Henrique    |      5 |              1 |
 | Everton Cebolinha |      4 |              8 |
 | Léo Pereira       |      4 |              1 |
@@ -48,19 +48,19 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 
 
 ```
-Jogos: 54
-Vitórias: 30
+Jogos: 55
+Vitórias: 31
 Empates: 10
 Derrotas: 14 
-Gols pro: 98
+Gols pro: 99
 Gols contra: 60
-Saldo de gols: +38
-Gols/jogo: 1.81
-Gols sofridos/jogo: 1.11
-Jogos em que marcou: 46
+Saldo de gols: +39
+Gols/jogo: 1.8
+Gols sofridos/jogo: 1.09
+Jogos em que marcou: 47
 Jogos em que sofreu gol: 33 
-Aproveitamento: 61.73%
-Aproveitamento pontos: 100/162
+Aproveitamento: 62.42%
+Aproveitamento pontos: 103/165
 ```
 
 
