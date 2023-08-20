@@ -30,14 +30,14 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
 | Pedro             |     27 |              4 |
-| Gabi              |     19 |              3 |
-| Arrascaeta        |      7 |             12 |
+| Gabi              |     20 |              3 |
+| Arrascaeta        |      8 |             12 |
 | Ayrton Lucas      |      6 |              5 |
 | Bruno Henrique    |      5 |              1 |
 | Everton Cebolinha |      4 |              8 |
 | Léo Pereira       |      4 |              1 |
-| Victor Hugo       |      3 |              1 |
-| Gerson            |      3 |              9 |
+| Gerson            |      4 |              9 |
+| Victor Hugo       |      3 |              2 |
 | Matheus França    |      3 |              0 |
 | Thiago Maia       |      3 |              0 |
 | Fabrício Bruno    |      3 |              0 |
@@ -47,20 +47,21 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 
 
 
+
 ```
-Jogos: 55
-Vitórias: 31
+Jogos: 56
+Vitórias: 32
 Empates: 10
 Derrotas: 14 
-Gols pro: 99
-Gols contra: 60
-Saldo de gols: +39
-Gols/jogo: 1.8
-Gols sofridos/jogo: 1.09
-Jogos em que marcou: 47
-Jogos em que sofreu gol: 33 
-Aproveitamento: 62.42%
-Aproveitamento pontos: 103/165
+Gols pro: 102
+Gols contra: 62
+Saldo de gols: +40
+Gols/jogo: 1.82
+Gols sofridos/jogo: 1.11
+Jogos em que marcou: 48
+Jogos em que sofreu gol: 34 
+Aproveitamento: 63.1%
+Aproveitamento pontos: 106/168
 ```
 
 
