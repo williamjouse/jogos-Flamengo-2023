@@ -63,15 +63,15 @@ Aproveitamento pontos: 110/177
 ----
 
 
-![img1.png](/figures/figure.png)
+![img1.png](figures/figure.png)
 
-![img1.png](/figures/figure2.png)
+![img1.png](figures/figure2.png)
 
-![img1.png](/figures/figure3.png)
+![img1.png](figures/figure3.png)
 
-![img1.png](/figures/figure4.png)
+![img1.png](figures/figure4.png)
 
-![img1.png](/figures/figure6.jpg)
+![img1.png](figures/figure6.jpg)
 
 
 ### Referências e Dados
