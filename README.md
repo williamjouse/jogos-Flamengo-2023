@@ -46,32 +46,33 @@ No arquivo [matches_FLA2023.xlsx](https://github.com/williamjouse/jogos-Flamengo
 | Eric Pulgar       |      2 |              2 |
 
 ```
-Jogos: 59
+Jogos: 61
 Vitórias: 33
-Empates: 11
-Derrotas: 15 
+Empates: 12
+Derrotas: 16 
 Gols pro: 104
-Gols contra: 66
-Saldo de gols: +38
-Gols/jogo: 1.76
-Gols sofridos/jogo: 1.12
+Gols contra: 67
+Saldo de gols: +37
+Gols/jogo: 1.7
+Gols sofridos/jogo: 1.1
 Jogos em que marcou: 49
-Jogos em que sofreu gol: 36 
-Aproveitamento: 62.15%
-Aproveitamento pontos: 110/177
+Jogos em que sofreu gol: 37 
+Aproveitamento: 60.66%
+Aproveitamento pontos: 111/183
+
 ```
 ----
 
 
-![img1.png](figures/figure.png)
+![img1.png](notebooks/figures/figure.png)
 
-![img1.png](figures/figure2.png)
+![img1.png](notebooks/figures/figure2.png)
 
-![img1.png](figures/figure3.png)
+![img1.png](notebooks/figures/figure3.png)
 
-![img1.png](figures/figure4.png)
+![img1.png](notebooks/figures/figure4.png)
 
-![img1.png](figures/figure6.jpg)
+![img1.png](notebooks/figures/figure6.jpg)
 
 
 ### Referências e Dados
