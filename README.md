@@ -31,13 +31,13 @@ A análise é feita no [Jupyter notebook](https://github.com/williamjouse/jogos-
 
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Pedro             |     31 |              4 |
+| Pedro             |     33 |              4 |
 | Gabi              |     20 |              3 |
-| Arrascaeta        |      8 |             12 |
+| Arrascaeta        |      9 |             12 |
 | Ayrton Lucas      |      7 |              6 |
 | Bruno Henrique    |      7 |              1 |
-| Gerson            |      6 |              9 |
-| Everton Cebolinha |      5 |              8 |
+| Gerson            |      6 |             10 |
+| Everton Cebolinha |      5 |              9 |
 | Léo Pereira       |      4 |              2 |
 | Victor Hugo       |      3 |              2 |
 | Matheus França    |      3 |              0 |
@@ -45,23 +45,24 @@ A análise é feita no [Jupyter notebook](https://github.com/williamjouse/jogos-
 | Fabrício Bruno    |      3 |              0 |
 | Matheus Gonçalves |      2 |              0 |
 | Everton Ribeiro   |      2 |              7 |
-| Eric Pulgar       |      2 |              2 |
+| Eric Pulgar       |      2 |              3 |
+
 
 
 ```
-Jogos: 69
-Vitórias: 37
+Jogos: 70
+Vitórias: 38
 Empates: 14
 Derrotas: 18 
-Gols pro: 115
+Gols pro: 118
 Gols contra: 74
-Saldo de gols: +41
-Gols/jogo: 1.67
-Gols sofridos/jogo: 1.07
-Jogos em que marcou: 57
+Saldo de gols: +44
+Gols/jogo: 1.69
+Gols sofridos/jogo: 1.06
+Jogos em que marcou: 58
 Jogos em que sofreu gol: 41 
-Aproveitamento: 60.39%
-Aproveitamento pontos: 125/207
+Aproveitamento: 60.95%
+Aproveitamento pontos: 128/210
 ```
 ----
 
