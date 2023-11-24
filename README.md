@@ -33,7 +33,7 @@ A análise é feita no [Jupyter notebook](https://github.com/williamjouse/jogos-
 |:------------------|-------:|---------------:|
 | Pedro             |     33 |              4 |
 | Gabi              |     20 |              3 |
-| Arrascaeta        |     10 |             12 |
+| Arrascaeta        |     11 |             12 |
 | Ayrton Lucas      |      7 |              6 |
 | Bruno Henrique    |      7 |              1 |
 | Gerson            |      6 |             10 |
@@ -45,25 +45,26 @@ A análise é feita no [Jupyter notebook](https://github.com/williamjouse/jogos-
 | Fabrício Bruno    |      3 |              0 |
 | Matheus Gonçalves |      2 |              0 |
 | Everton Ribeiro   |      2 |              7 |
-| Eric Pulgar       |      2 |              4 |
+| Eric Pulgar       |      2 |              5 |
+
 
 
 
 
 ```
-Jogos: 71
-Vitórias: 38
+Jogos: 72
+Vitórias: 39
 Empates: 15
 Derrotas: 18 
-Gols pro: 119
+Gols pro: 120
 Gols contra: 75
-Saldo de gols: +44
-Gols/jogo: 1.68
-Gols sofridos/jogo: 1.06
-Jogos em que marcou: 59
+Saldo de gols: +45
+Gols/jogo: 1.67
+Gols sofridos/jogo: 1.04
+Jogos em que marcou: 60
 Jogos em que sofreu gol: 42 
-Aproveitamento: 60.56%
-Aproveitamento pontos: 129/213
+Aproveitamento: 61.11%
+Aproveitamento pontos: 132/216
 ```
 ----
 
