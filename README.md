@@ -52,19 +52,19 @@ A análise é feita no [Jupyter notebook](https://github.com/williamjouse/jogos-
 
 
 ```
-Jogos: 73
+Jogos: 74
 Vitórias: 40
 Empates: 15
-Derrotas: 18 
+Derrotas: 19 
 Gols pro: 123
-Gols contra: 75
-Saldo de gols: +48
-Gols/jogo: 1.68
-Gols sofridos/jogo: 1.03
+Gols contra: 78
+Saldo de gols: +45
+Gols/jogo: 1.66
+Gols sofridos/jogo: 1.05
 Jogos em que marcou: 61
-Jogos em que sofreu gol: 42 
-Aproveitamento: 61.64%
-Aproveitamento pontos: 135/219
+Jogos em que sofreu gol: 43 
+Aproveitamento: 60.81%
+Aproveitamento pontos: 135/222
 ```
 ----
 
